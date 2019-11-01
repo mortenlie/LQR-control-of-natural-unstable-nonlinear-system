@@ -1,0 +1,9 @@
+L1 = 3; %Length of rod 1
+L2 = 2; %Length of rod 2
+m_0 = 10; %Mass of wheel
+m_1 = 5 * L1; %Mass of rod 1
+m_2 = 5 * L2; %Mass of rod 2
+g = 9.81; %Gravitational acceleration
+r = 3; %Radius of wheel
+r_ee = 2.5; %Radius at which rod 1 is attached
+b = 1; %Damping constant
